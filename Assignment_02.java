@@ -1,3 +1,4 @@
+
 public class CovidPatientDatabase {
     public static class CovidPatient {
         private String name;

@@ -1,3 +1,4 @@
+
 public class SimpleArrayList {
     private int[] array;
     private int size;
